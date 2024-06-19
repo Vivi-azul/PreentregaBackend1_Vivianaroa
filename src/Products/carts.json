@@ -1,0 +1,71 @@
+[
+    {
+        "id": "1",
+    "title": "Fideos",
+    "description": "Paquete de Fideos espirales, corbatas o coditos",
+    "code": "A001",
+    "status": true,
+    "price": 520,
+    "stock": 20,
+    "category": "Abarrotes"
+    },
+  {
+    "id": "2",
+    "title": "Arroz",
+    "description": "Bolsa de arroz 1 kg",
+    "code": "A002",
+    "status": true,
+    "price": 480,
+    "stock": 15,
+    "category": "Abarrotes"
+  },
+  {
+    "id": "3",
+    "title": "Salsa de tomates",
+    "description": "Sachet con trocitos de tomates",
+    "code": "A003",
+    "status": true,
+    "price": 300,
+    "stock": 18,
+    "category": "Abarrotes"
+  },
+  {
+    "id": "4",
+    "title": "Cereal Avena",
+    "description": "Cereal de avena y frutos",
+    "code": "A004",
+    "status": true,
+    "price": 1500,
+    "stock": 10,
+    "category": "Cereales"
+  },
+  {
+    "id": "5",
+    "title": "Cereal Chocolate",
+    "description": "Cereal de bolitas de chocolate blanco y negro",
+    "code": "A005",
+    "status": true,
+    "price": 1500,
+    "stock": 10,
+    "category": "Cereales"
+  },
+  {
+    "id": "6",
+    "title": "Cereal Frutos secos",
+    "description": "Cereal conmpuesto por variedad de frutos secos",
+    "code": "A006",
+    "status": true,
+    "price": 1500,
+    "stock": 15,
+    "category": "Cereales"
+  },
+  {
+    "id": "7",
+    "title": "Dulce Citrico",
+    "description": "Dulce de limón",
+    "code": "A007",
+    "status": true,
+    "price": 2600,
+    "stock": 22,
+    "category": "Golosinas"
+  }]
